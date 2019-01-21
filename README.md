@@ -1,4 +1,4 @@
-# fairhouse webapp
+# fair-house webapp
 ### web3的安装和使用
 **相关网址：**
 https://github.com/ethereum/web3.js
