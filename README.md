@@ -1,6 +1,6 @@
 # fairhouse webapp
 ### web3的安装和使用
-** 相关网址： **
+**相关网址：**
 https://github.com/ethereum/web3.js
 http://web3.tryblockchain.org/
 1. 如果win上没有安装visual studio和python，需要运行`npm install --global --production windows-build-tools`
