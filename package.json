@@ -1,0 +1,53 @@
+{
+  "name": "bc",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "mu",
+  "private": true,
+  "scripts": {
+    "precommit": "npm run lint",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "build": "nuxt build && backpack build",
+    "generate": "nuxt generate",
+    "dev": "cross-env NODE_ENV=development RUN_ENV=local backpack dev",
+    "start": "pm2 startOrGracefulReload ecosystem.config.json",
+    "start-preprod": "pm2 startOrGracefulReload ecosystem.config.json --env preprod",
+    "dev-prod": " cross-env NODE_ENV=development RUN_ENV=prod backpack dev",
+    "start-prod1": "pm2 startOrGracefulReload ecosystem.config.json --env prod1",
+    "start-prod2": "pm2 startOrGracefulReload ecosystem.config.json --env prod2"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.1",
+    "@tweenjs/tween.js": "^17.2.0",
+    "axios": "^0.16.2",
+    "bignumber.js": "^7.2.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cross-env": "^5.0.1",
+    "element-ui": "^2.4.0",
+    "express": "^4.15.3",
+    "js-cookie": "^2.2.0",
+    "log4js": "^2.3.12",
+    "moment": "^2.22.0",
+    "nuxt": "^1.4.0",
+    "source-map-support": "^0.4.15",
+    "vue-clipboards": "^1.2.4",
+    "vue-i18n": "^8.1.0",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-component": "^0.10.1",
+    "backpack-core": "^0.4.1",
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "links": {
+    "home":"首頁",
+    "qna":"常見問題"
+  },
+  "metaData": {
+    "title": "FairHouse - 公平透明的娛樂遊戲",
+    "description": "Enjoy fair games on Ethereum with low house edge and jackpots! Play Ethereum dice, Coin Flip, Two Dice and Etheroll now!",
+    "keywords":"Ether, gambling, games, Ethereum, wei, finney, ether, ethereum gambling, de-centralized, de-centralised, gamble, Dapp, Ðapp, provably, fair, provably fair, crypto-currency, cryptocurrency, crypto, crypto-currency, cryptocurrency, bitcoin, hello james, etheroll, dicether, ethereum dice, tokenflip, etherflip"
+  },
+  "nodata":"暫無數據",
+  "eth":"ETH",
+  "homePageIntro":{
+    "title":"公平透明的娛樂遊戲",
+    "stress":"可被證明的公平性",
+    "text1":"娛樂遊戲由簡單的開源合約提供支持",
+    "text2":"無需註冊或押金，只有1%的佣金以及大獎！"
+  },
+  "homePageUnit":{
+    "2hbet":{
+      "title":"24小時內的總賭注",
+      "text":"投注數量"
+    },
+    "jackpot":{
+      "title":"最近的大獎",
+      "text":"獲勝者"
+    },
+    "winner":{
+      "title":"24小時內最大的贏家"
+    }
+  },
+  "mySpread":{
+    "text1":"我的唯一專屬推廣鏈接",
+    "copy":"複製",
+    "text2":"我的推廣人數",
+    "text3":"我的累計推廣獎勵"
+  },
+  "bnrInfo":{
+    "text":"註冊唯一專屬名稱激活推薦鏈接，可永久獲得投注金額0.5%推薦獎勵",
+    "btnText":"去註冊"
+  },
+  "namePopInfo":{
+    "title":"請輸入您的用戶名",
+    "tip":"名稱",
+    "placeholder":"填寫您的用戶名",
+    "guideTit":"名稱必須遵循這些規則：",
+    "guide1":"- 必須是唯一的",
+    "guide2":"- 32個字母或更少",
+    "guide3":"- A-Z(小寫)",
+    "guide4":"- 名稱不能只是數字，但數字是允許的",
+    "guide5":"- 沒有特殊字符",
+    "guide6":"- 字符之間不能空格",
+    "text1":"如果事務失敗，這些標準中的一個沒有被正確地滿足。",
+    "text2":"名字永遠屬於你，你可以擁有你想要的名字。",
+    "btnText":"花費0.05ETH註冊"
+  },
+  "gamesInfo":{
+    "game1":{
+      "title":"拋硬幣",
+      "desc":"正面或背面？一半對一半<br>獲勝就能贏得1.98倍的投注"
+    },
+    "game2":{
+      "title":"擲骰子",
+      "desc":"在數字1至6中下注<br>獲勝能夠贏得高達5.94倍的投注"
+    },
+    "game3":{
+      "title":"兩個骰子",
+      "desc":"对总和进行投注，在數字2至12中選擇<br>獲勝能夠贏得高達35.64倍的投注"
+    },
+    "game4":{
+      "title":"Etheroll<br>以太幣過山車",
+      "desc":"任意勝率，1%到97%<br>獲勝就能贏得高達99倍的投注"
+    }
+  },
+  "game1":{
+    "name":"拋硬幣",
+    "desc":"選擇硬幣的一面來進行投注"
+  },
+  "game2":{
+    "name":"骰子",
+    "desc":"選擇骰子數來進行投注"
+  },
+  "game3":{
+    "name":"两个骰子",
+    "desc":"選擇投注骰子的總和"
+  },
+  "game4":{
+    "name":"Etheroll<br>以太幣過山車",
+    "desc":"調整您的勝率"
+  },
+  "bottomZone":{
+    "unit1":{
+      "title":"我們的遊戲",
+      "info":["拋硬幣","骰子","两个骰子","Etheroll以太幣過山車"]
+    },
+    "unit2":{
+      "title":"區塊鏈",
+      "info":["您的餘額：","網絡：","智能合約"]
+    },
+    "unit3":{
+      "title":"特色"
+    },
+    "unit4":{
+      "title":"聯繫我們",
+      "info":["電子郵件","服務條款"]
+    }
+  },
+  "noticeZone":{
+    "title1":"獲勝機會",
+    "title2":"赢得投注",
+    "text1":"您將贏得",
+    "title3":"大獎包括",
+    "text3":"0.1%的贏大獎機會！",
+    "fee":["1%佣金，0.001給幸運大獎","1%佣金","1.5%佣金","3%佣金"]
+  },
+  "betHandleZone":{
+    "biggest":"最大",
+    "yourBet":"您的賭注",
+    "mastState":["請確認投注交易","投注已提交！<br>等待以太坊......","投注已確認！<br>等待莊家......"],
+    "result":{
+      "failText1":"交易失敗，請重新下注",
+      "failText2":"您輸了:(",
+      "winText1":"您赢了！",
+      "info1":"您將賭注押在",
+      "info2":"結果"
+    }
+  },
+  "tipToolsText":{
+    "text1":"請輸入有效的名稱",
+    "text2":"請輸入您的名稱",
+    "text3":"恭喜你，已註冊成功",
+    "text4":"已複製到剪貼板~"
+  },
+  "metaMask":{
+    "text1":"安裝MetaMask",
+    "text2":"您需要一個兼容Web3的錢包來玩我們的遊戲",
+    "text3":"獲取MetaMask",
+    "text4":"登錄MetaMask",
+    "text5":"請登錄MetaMask以繼續",
+    "text6":"切換到主網",
+    "text7":"我們的遊戲僅在主網上提供 - 請通過Metamask進行切換"
+  },
+  "btnTxt":{
+    "startPlay":"現在開始遊戲",
+    "playAgain":"再玩一次",
+    "bet":"下注！"
+  },
+  "history":{
+    "title":"遊戲歷史",
+    "me":"只有我",
+    "tt01":"玩家",
+    "tt02":"賭注",
+    "tt03":"結果",
+    "tt04":"頭獎",
+    "dcont01":"地址",
+    "dcont02":"賭注",
+    "dcont03":"將賭注押在",
+    "dcont04":"獲勝"
+  },
+  "qna":{
+    "cont":"<h1 style='color:#fff;'><b>哪種線上博彩遊戲可以證明其公平性？</b></h1><p style='font-size:15px'>簡單來說，可以證明其公平性意味著任何投注結果都可以進行獨立驗證，並且運營商或其他玩家都沒有辦法來篡改結果。</p><h1 style='color:#fff;'><b>fairhouse.io 是否可以證明其公平性？</b></h1><p style='font-size:15px'>是的。整個遊戲玩法都由乙太坊智慧合約進行控制，它會根據運營商的輸入以及區塊鏈數據（區塊雜湊）計算亂數。任何一方都可以對合約進行稽核，並檢查任何交易，確保fairhouse.io以及惡意玩家都不會影響結果。</p><h1 style='color:#fff;'><b>您與其他博彩網站有什麼不同？</b></h1><p style='font-size:15px'>與競爭對手的網站相比，在fairhouse.io上進行下注的交易費用要低得多-它可以提供低至0.01ETH的投注。我們的遊戲非常簡單易懂，就像拋硬幣或擲骰子一樣。當然，我們還提供大獎！</p><h1 style='color:#fff;'><b>有什麼圈套嗎？請盡可能用通俗易懂的管道向我解釋一下它是如何運作的。</b></h1><p style='font-size:15px'>在這個問題上，我們必須要說點技術性的東西：</p><ul style='font-size:15px'><li>&nbsp;&nbsp;-&nbsp;fairhouse.io會選擇一個秘密的亂數，並為您提供它的雜湊。</li><li>&nbsp;&nbsp;-&nbsp;您把以太網交易中的賭注與上一步中的雜湊一起發送至我們的智慧合約。</li><li>&nbsp;&nbsp;-&nbsp;此時，在您選擇結果之前，fairhouse.io已經承諾了一個數位。</li><li>&nbsp;&nbsp;-&nbsp;一旦您的交易被網絡確認，該合約將會存儲雜湊以及投注詳細資訊。</li><li>&nbsp;&nbsp;-&nbsp;我們的莊家機器人會通過發送投注結算交易來“揭曉”該數位。</li><li>&nbsp;&nbsp;-&nbsp;當且僅當提供的數位的雜湊與存儲的雜湊相同時，合約才會接受該交易。</li><li>&nbsp;&nbsp;-&nbsp;合約會把下注交易的數量和區塊雜湊進行混合以獲得一個亂數。</li><li>&nbsp;&nbsp;-&nbsp;合約會决定您是贏還是輸，並向您發送您所贏取的乙太幣。</li></ul><p style='font-size:15px'>fairhouse.io是否可以篡改結果？不可以，因為合約記錄了秘密數位的雜湊，這就意味著運營商在接受賭注後就無法更改數位。將區塊雜湊與數位進行混合，這使得其結果完全是隨機的，不允許礦工們耍花招來贏取賭注。另一方面，由於區塊雜湊組件，fairhouse.io本身無法控制投注結果。這就是眾所周知的“承諾方案”，它使fairhouse.io能够提供博彩級的亂數生成，可以進行大賭注、累積大獎以及快速結算，同時完全透明。</p><h1 style='color:#fff;'><b>如果我確實想要驗證您所說的一切是否真實，該怎麼做？</b></h1><p style='font-size:15px'>請隨意研究我們的智慧合約-您可以在Github上找到它。如果您有任何疑問或猶豫，請通過Telegram、Twitter或電子郵件聯繫我們。</p><h1 style='color:#fff;'><b>費用是多少？</b></h1><p style='font-size: 15px'>每次下注時，fairhouse.io均會扣除1%（但不低於0.0003ETH），（以幫助我們支付帳單並使遊戲可以運行），並且，0.1 ETH以上的賭注會在累積大獎中累積0.001 ETH以上（這也使得這些賭注會參與累積大獎！）</p><h1 style='color:#fff;'><b>是否有推薦獎勵政策？</b></h1><p style='font-size:15px'>有的，您可以花費0.05ETH注册一個唯一的名字啟動推薦鏈接（例如- https://www.fairhouse.io/r/{anyname}）。您就可以永久獲得被推薦人每次投注金額的0.5%的推薦獎勵（推薦獎勵會從1%費用中支出，前提是扣除的費用不低於0.0003ETH）。</p><p style='font-size:15px'></p>"
+  },
+  "tos":{
+    "cont":"<h1 style='color:#fff;'><b>服務條款</b></h1><p style='font-size:15px'>fairhouse.io（“我們”）的網站提供乙太坊區塊鏈上的智慧合約介面，它會根據外部因素而接收乙太幣並轉帳不同數量的乙太幣。</p><p style='font-size:15px'>我們無法驗證各轄區內服務的合法性，也不能為您提供任何法律意見。您應當按照上述管道遵守您所在司法管轄區內有關使用乙太幣的任何相關法律、政策和法規，並由您個人完全承擔相關責任。</p><p style='font-size:15px'>玩基於智慧合約的遊戲可能會使玩家獲得或損失乙太幣。我們對所提供遊戲的結果不承擔任何責任。</p><p style='font-size:15px'>我們保留修改網站及其服務以及這些條款的權利，恕不另行通知。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "links": {
+    "home":"홈페이지",
+    "qna":"자주하는 질문"
+  },
+  "metaData": {
+    "title": "FairHouse - 공정하고 투명한 엔터테인먼트 게임",
+    "description": "Enjoy fair games on Ethereum with low house edge and jackpots! Play Ethereum dice, Coin Flip, Two Dice and Etheroll now!",
+    "keywords":"Ether, gambling, games, Ethereum, wei, finney, ether, ethereum gambling, de-centralized, de-centralised, gamble, Dapp, Ðapp, provably, fair, provably fair, crypto-currency, cryptocurrency, crypto, crypto-currency, cryptocurrency, bitcoin, hello james, etheroll, dicether, ethereum dice, tokenflip, etherflip"
+  },
+  "nodata":"데이터 없다",
+  "eth":"ETH",
+  "homePageIntro":{
+    "title":"공정하고 투명한 엔터테인먼트 게임",
+    "stress":"증명할 수 있냐고",
+    "text1":" 지원하는 쉽게 입을 정산 계약 걸다",
+    "text2":"아직 등록 또는 침대 가장자리 단 1%, 대박!"
+  },
+  "homePageUnit":{
+    "2hbet":{
+      "title":"24시간 걸다",
+      "text":"걸다"
+    },
+    "jackpot":{
+      "title":"최근 당첨되었다",
+      "text":"수상 "
+    },
+    "winner":{
+      "title":"24시간 수상자"
+    }
+  },
+  "mySpread":{
+    "text1":"나의 유일한 추천 링크",
+    "copy":"복사",
+    "text2":"추천 번호 ",
+    "text3":"누적 된 보상 "
+  },
+  "bnrInfo":{
+    "text":"고유 한 독점적 인 이름을 등록하여 0.5% 프로모션 보너스를 <br>영구적으로 취득하십시오",
+    "btnText":"이름 등록"
+  },
+  "namePopInfo":{
+    "title":"사용자 이름 입력",
+    "tip":"명칭",
+    "placeholder":"사용자 이름 작성하기",
+    "guideTit":"명칭은 반드시 이 규칙들을 따라야 한다:",
+    "guide1":"- 꼭 유일한 것 같아요",
+    "guide2":"- 32 개의 알파벳이나 더 적은 것 같아요",
+    "guide3":"- A-Z(소문자)",
+    "guide4":"- 명칭은 숫자일 수 없지만, 숫자는 허락한 것이다",
+    "guide5":"- 특별한 문자 없음",
+    "guide6":"- 문자 사이에서는 빈칸을 할 수 없다",
+    "text1":"만약 거래 아직 안 만난 그 기준을 잘",
+    "text2":"이름, 너, 영구.너는 자신의 많은 이름 좋아해요.",
+    "btnText":"0.05 ETH 구매"
+  },
+  "gamesInfo":{
+    "game1":{
+      "title":"동전 던지기",
+      "desc":"정면이나 뒷면?절반 에 1 로 승인 하면 1.98 배 의 주주 를 얻을 수 있다"
+    },
+    "game2":{
+      "title":"주사위를 던지다",
+      "desc":"1에서 6까지의 숫자로 베팅을하면<br>최대 5.94 배의 베팅이 가능합니다"
+    },
+    "game3":{
+      "title":"투디스",
+      "desc":"2 배에서 12 배까지의 베팅, <br>최대 35.64 배의 베팅"
+    },
+    "game4":{
+      "title":"Etheroll",
+      "desc":"어떤 우승 확률, 1%~97%<br>우승 배팅은 최대 99 배 지불"
+    }
+  },
+  "game1":{
+    "name":"동전 던지기",
+    "desc":"내기 할 코인을 선택하십시오"
+  },
+  "game2":{
+    "name":"주사위",
+    "desc":"내기 할 주사위 번호를 선택하십시오"
+  },
+  "game3":{
+    "name":"두 개의 주사위",
+    "desc":"내기 할 주사위의 합계를 선택하십시오"
+  },
+  "game4":{
+    "name":"Etheroll",
+    "desc":"승리 확률 조정"
+  },
+  "bottomZone":{
+    "unit1":{
+      "title":"우리 게임",
+      "info":["동전 던지기","주사위","두 개의 주사위","Etheroll"]
+    },
+    "unit2":{
+      "title":"블록 체인",
+      "info":["잔액 ","회로망: ","똑똑한 계약"]
+    },
+    "unit3":{
+      "title":"추천 대상"
+    },
+    "unit4":{
+      "title":"우리에게 다가 가십시오",
+      "info":["이메일 지원","서비스 약관"]
+    }
+  },
+  "noticeZone":{
+    "title1":"우승 확률",
+    "title2":"이기는 내기는 지불한다",
+    "text1":"당신은 이길 것이다 ",
+    "title3":"대성공에 포함 된 내용",
+    "text3":"대성공을이기는 0.1% 기회!",
+    "fee":["1% 수수료, 0.001ETH 대성공","1% 수수료","1.5% 수수료","3% 수수료"]
+  },
+  "betHandleZone":{
+    "biggest":"최대",
+    "yourBet":"내기",
+    "mastState":["내기 거래를 확인하십시오","내기가 제출되었습니다! <br> Ethereum을 기다리는 중 ...","확정되었습니다! <br> 대리점 대기 중 ..."],
+    "result":{
+      "failText1":"내기 요청을 거부했습니다 :(",
+      "failText2":"너 잃어 버렸다 :(",
+      "winText1":"당신이 이겼어!",
+      "info1":"당신은 아래에 내기",
+      "info2":"결과"
+    }
+  },
+  "tipToolsText":{
+    "text1":"올바른 이름을 입력하십시오",
+    "text2":"이름을 입력하십시오",
+    "text3":"축하합니다. 등록되었습니다",
+    "text4":"클립 보드에 복사 됨~"
+  },
+  "metaMask":{
+    "text1":"설치 MetaMask",
+    "text2":"우리 게임을하기 위해서는 Web3 호환 지갑이 필요합니다",
+    "text3":"도망 MetaMask",
+    "text4":"에 로그인 MetaMask",
+    "text5":"계속하려면 MetaMask에 로그인하십시오",
+    "text6":"Mainnet으로 전환",
+    "text7":"저희 게임은 메인 네트에서만 가능합니다 - Metamask를 통해 전환하십시오"
+  },
+  "btnTxt":{
+    "startPlay":"지금 플레이",
+    "playAgain":"다시 재생",
+    "bet":"장소 내기!"
+  },
+  "history":{
+    "title":"게임 기록",
+    "me":"나만",
+    "tt01":"플레이어",
+    "tt02":"내기",
+    "tt03":"결과",
+    "tt04":"공동 자금",
+    "dcont01":"주소",
+    "dcont02":"내기",
+    "dcont03":"에 내기",
+    "dcont04":"이기다"
+  },
+  "qna":{
+    "cont":"<h1 style='color:#fff;'><b>공정하게 사슬로 도박을하는 것은 무엇입니까?</b></h1><p style='font-size:15px'>간단히 말해서, 공정하게 공정하다는 것은 어떤 베팅 결과라도 독립적으로 검증 될 수 있으며 운영자 또는 다른 플레이어는 결과를 조작 할 수있는 방법이 없다는 것을 의미합니다.</p><h1 style='color:#fff;'><b>fairhouse.io는 공평하게 공정한가요?</b></h1><p style='font-size:15px'>예. 전체 게임 플레이는 운영자 입력 및 블록 체인 데이터 (블록 해시)를 기반으로 난수를 계산하는 Ethereum Smart Contract에 의해 제어됩니다. 모든 당사자는 계약을 감사하고 거래를 검사하여 fairhouse.io도 악의적 인 플레이어도 결과에 영향을 미치지 않도록 할 수 있습니다.</p><h1 style='color:#fff;'><b>다른 도박 사이트와 다른 점은 무엇입니까?</b></h1><p style='font-size:15px'>fairhouse.io에 내기를 걸면 경쟁 웹 사이트에 비해 거래 수수료가 훨씬 적습니다. 0.01ETH만큼 낮은 배팅을 지원할 수 있습니다. 우리의 게임은 동전을 던지거나 주사위를 굴리는 것과 같이 매우 간단하고 쉽게 이해할 수 있습니다. 물론, 우리는 대박을 가지고 있습니다!</p><h1 style='color:#fff;'><b>어떤 잡을 것이 있습니까? 내가 5 살인 것처럼 그것이 어떻게 작동하는지 설명하십시오.</b></h1><p style='font-size:15px'>이것은 우리가 약간 기술적 인 것을 얻어야 만하는 곳입니다:</p><ul style='font-size:15px'><li>&nbsp;&nbsp;-&nbsp;fairhouse.io는 비밀 난수를 선택하고 해시를 제공합니다.</li><li>&nbsp;&nbsp;-&nbsp;Ethereum 거래 내에서 이전 단계의 해시와 함께 스마트 계약에 베팅을 보냅니다.</li><li>&nbsp;&nbsp;-&nbsp;이 시점에서 fairhouse.io는 이미 결과를 선택하기 전에 숫자로 커밋했습니다.</li><li>&nbsp;&nbsp;-&nbsp;거래가 네트워크에 의해 확인되면 계약서에 해시 및 배팅 세부 정보가 저장됩니다.</li><li>&nbsp;&nbsp;-&nbsp;우리의 croupier bot은 내기 거래를 보내서 번호를 알려줍니다.</li><li>&nbsp;&nbsp;-&nbsp;제공된 x 호의 해시가 저장된 x 호와 동일한 경우에만 계약이 승인됩니다.</li><li>&nbsp;&nbsp;-&nbsp;계약서는 배팅 거래의 번호와 블록 해시를 혼합하여 임의 번호를 얻습니다.</li><li>&nbsp;&nbsp;-&nbsp;계약은 당신이이기거나 잃어 버렸고 당신에게 Ether의 승리 금액을 보냈는지 여부를 결정합니다.</li></ul><p style='font-size:15px'>fairhouse.io가 결과를 조작 할 수 있습니까? 아니요, 계약서에 비밀 번호의 해시를 추적하므로 배팅을 수락 한 후 운영자가 번호를 변경할 수 없습니다. 블록 해시를 숫자와 함께 사용하면 결과가 완전히 무작위이지만 광부가 내기를 성공하지 못하게 할 수 있습니다. 반면에, fairhouse.io 자체는 블록 해시 구성 요소 때문에 내기 결과를 제어 할 수 없습니다. 이것은 fairhouse.io가 큰 베팅, 대성공 및 빠른 거주를 허용하는 도박 급료 난수 생성을 제공하는 것을 허용하는 유명한 '투입 계획'완전히 투명 하 동안.</p><h1 style='color:#fff;'><b>당신이 말하는 모든 것이 사실이라는 것을 정말로 확인하고 싶은가?</b></h1><p style='font-size:15px'>스마트 계약서를 자유롭게 공부하십시오. Github에서 사용할 수 있습니다. 질문이나 망설임이있는 경우, 전보, 트위터 또는 이메일을 통해 전화를 끊으십시오.</p><h1 style='color:#fff;'><b>수수료는 무엇입니까?</b></h1><p style='font-size: 15px'>모든 내기는 fairhouse.io (우리가 청구서를 지불하고 게임을 계속 운영하는 것을 돕기 위해)에 찬성하여 1% (0.0003 ETH 이상)를 공제하고, 0.001 ETH 이상은 0.1 ETH 이상의 베팅을 위해 대성공에 축적됩니다 (또한이 베팅을 대성공에 참여하게합니다!)</p><h1 style='color:#fff;'><b>권장 인센티브 정책이 있습니까?</b></h1><p style='font-size:15px'>예. 0.05 ETH를 사용하여 고유 한 이름을 등록하여 추천 URL을 시작할 수 있습니다 (예 : - https://www.fairhouse.io/r/{anyname}). 공제 수수료가 0.0003 ETH 이상이 아니라면 각 내기 금액의 0.5%에 해당하는 추천 보상을받을 수 있습니다 (추천 보상은 1%의 비용에서 지급됩니다).</p><p style='font-size:15px'></p>"
+  },
+  "tos":{
+    "cont":"<h1 style='color:#fff;'><b>서비스 약관</b></h1><p style='font-size:15px'>fairhouse.io ( '우리')의 웹 사이트는 외부 요소에 따라 ETH 토큰을 받고 ETH 토큰의 다양한 양을 전송하는 Ethereum 블록 체인에 대한 스마트 계약에 대한 인터페이스를 제공합니다.</p><p style='font-size:15px'>우리는 각 관할지에서 서비스의 적법성을 확인할 수 없으며 법적 조언을 제공 할 수 없습니다. 위에서 설명한 방법으로 ETH 토큰 사용에 관한 관할 지역의 관련 법률, 정책 및 규정을 준수하는 것은 전적으로 귀하의 책임입니다.</p><p style='font-size:15px'>Smart Contract가 제공하는 게임을 실행하면 ETH 토큰을 얻거나 잃을 수 있습니다. 우리는 우리가 제공하는 게임의 결과에 대해 어떠한 책임도지지 않습니다.</p><p style='font-size:15px'>우리는 사전 통보없이 웹 사이트와 서비스 및 약관을 수정할 권리가 있습니다. 정기적으로 업데이트를 확인하는 것이 좋습니다.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+  }
+}

@@ -1,0 +1,2 @@
+let contractAddress = '0x9F91b5Aa41b9fbDae6877593910586484d291F05'
+export default contractAddress

@@ -1,0 +1,166 @@
+{
+  "links": {
+    "home":"Home",
+    "qna":"FAQ"
+  },
+  "metaData": {
+    "title": "FairHouse - Fair and transparent entertainment games",
+    "description": "Enjoy fair games on Ethereum with low house edge and jackpots! Play Ethereum dice, Coin Flip, Two Dice and Etheroll now!",
+    "keywords":"Ether, gambling, games, Ethereum, wei, finney, ether, ethereum gambling, de-centralized, de-centralised, gamble, Dapp, Ðapp, provably, fair, provably fair, crypto-currency, cryptocurrency, crypto, crypto-currency, cryptocurrency, bitcoin, hello james, etheroll, dicether, ethereum dice, tokenflip, etherflip"
+  },
+  "nodata":"No data",
+  "eth":"ETH",
+  "homePageIntro":{
+    "title":"Fair and transparent entertainment games",
+    "stress":"Provably fair",
+    "text1":" bets backed by simple open-sourced contract",
+    "text2":"No sign-ups or deposits, just 1% edge and jackpot!"
+  },
+  "homePageUnit":{
+    "2hbet":{
+      "title":"24h wagers",
+      "text":"bets"
+    },
+    "jackpot":{
+      "title":"Recent jackpot",
+      "text":"Won by "
+    },
+    "winner":{
+      "title":"24h top winners"
+    }
+  },
+  "mySpread":{
+    "text1":"My only exclusive recommendation link",
+    "copy":"Copy",
+    "text2":"Number of my recommendation people ",
+    "text3":"Cumulative reward "
+  },
+  "bnrInfo":{
+    "text":"Register a unique exclusive name to permanently earn <br>a bet amount of 0.5% promotion bonus",
+    "btnText":"Register a name"
+  },
+  "namePopInfo":{
+    "title":"Please enter your user name",
+    "tip":"Name",
+    "placeholder":"Fill in your user name",
+    "guideTit":"Names must follow these rules:",
+    "guide1":"- Must be unique",
+    "guide2":"- 32 Characters or Less",
+    "guide3":"- A-Z[a-z]",
+    "guide4":"- Name cannot be just numbers, but numbers are allowed",
+    "guide5":"- No special characters",
+    "guide6":"- No more than one space between characters",
+    "text1":"If the transaction fails, one of these criteria was not met properly. ",
+    "text2":"Names are yours permanently. You can own as many names as you'd like.",
+    "btnText":"Purchase for 0.05 ETH"
+  },
+  "gamesInfo":{
+    "game1":{
+      "title":"Coin flip",
+      "desc":"Heads or tails? Fifty-fifty<br>Winning bet pays 1.98×"
+    },
+    "game2":{
+      "title":"Roll a dice",
+      "desc":"Bet on numbers, 1 to 6<br>Winning bet pays up to 5.94×"
+    },
+    "game3":{
+      "title":"Two dice",
+      "desc":"Bet on sum, 2 to 12<br>Winning bet pays up to 35.64×"
+    },
+    "game4":{
+      "title":"Etheroll",
+      "desc":"ANY win chance, 1% to 97%<br>Winning bet pays up to 99×"
+    }
+  },
+  "game1":{
+    "name":"Coin Flip",
+    "desc":"Choose coin side to bet on"
+  },
+  "game2":{
+    "name":"Dice",
+    "desc":"Choose the dice number(s) to bet on"
+  },
+  "game3":{
+    "name":"Two Dice",
+    "desc":"Choose sum of dice to bet on"
+  },
+  "game4":{
+    "name":"Etheroll",
+    "desc":"Adjust you win chance"
+  },
+  "bottomZone":{
+    "unit1":{
+      "title":"Our games",
+      "info":["Coin flip","Dice","Two dice","Etheroll"]
+    },
+    "unit2":{
+      "title":"Blockchain",
+      "info":["Your balance ","Network: ","Smart contract"]
+    },
+    "unit3":{
+      "title":"Featured on"
+    },
+    "unit4":{
+      "title":"Reach out to us",
+      "info":["Email support","Terms of service"]
+    }
+  },
+  "noticeZone":{
+    "title1":"Winning chance",
+    "title2":"Winning bet pays",
+    "text1":"You will win ",
+    "title3":"Jackpot contains",
+    "text3":"0.1% chance to win the jackpot!",
+    "fee":["1% fee, 0.001ETH to jackpot","1% fee","1.5% fee","3% fee"]
+  },
+  "betHandleZone":{
+    "biggest":"max",
+    "yourBet":"Your bet",
+    "mastState":["Please confirm bet transaction","Bet submitted!<br>Waiting for Ethereum...","Bet confirmed!<br>Waiting for croupier..."],
+    "result":{
+      "failText1":"You rejected bet request :(",
+      "failText2":"You lost :(",
+      "winText1":"You won!",
+      "info1":"You bet under",
+      "info2":"Result"
+    }
+  },
+  "tipToolsText":{
+    "text1":"Please enter a valid name",
+    "text2":"Please input your name",
+    "text3":"Congratulations, registered successfully",
+    "text4":"Copied to clipboard~"
+  },
+  "metaMask":{
+    "text1":"Install MetaMask",
+    "text2":"You need a Web3-compatible wallet to play our games",
+    "text3":"Get MetaMask",
+    "text4":"Login to MetaMask",
+    "text5":"Please log in to MetaMask to proceed",
+    "text6":"Switch to Mainnet",
+    "text7":"Our games are available on mainnet only – please switch via Metamask"
+  },
+  "btnTxt":{
+    "startPlay":"Play now",
+    "playAgain":"Play again",
+    "bet":"Place bet!"
+  },
+  "history":{
+    "title":"Game history",
+    "me":"Only me",
+    "tt01":"Player",
+    "tt02":"Bet",
+    "tt03":"Result",
+    "tt04":"Jackpot",
+    "dcont01":"address",
+    "dcont02":"bet",
+    "dcont03":"bet on",
+    "dcont04":"wins"
+  },
+  "qna":{
+    "cont":"<h1 style='color:#fff;'><b>What is provably fair on-chain gambling?</b></h1><p style='font-size:15px'>Simply put, provably fair means that any bet outcome can be independently verified and that the operator or other players have no means of tampering with the result.</p><h1 style='color:#fff;'><b>Is fairhouse.io provably fair?</b></h1><p style='font-size:15px'>Yes. The whole gameplay is controlled by Ethereum Smart Contract that computes random numbers based on operator inputs and blockchain data (block hashes). Any party can audit the contract as well as inspect any transaction to make sure that neither fairhouse.io nor malicious players are influencing the results.</p><h1 style='color:#fff;'><b>How are you different from the other gambling sites?</b></h1><p style='font-size:15px'>Placing a bet on fairhouse.io has much lower transaction fee compared to competing websites − this allows supporting bets as low as 0.01 ETH. Our games are very simple & easily understandable, just like tossing a coin or rolling a dice. And, of course, we have jackpot!</p><h1 style='color:#fff;'><b>Is there any catch? Explain how it works like I'm five.</b></h1><p style='font-size:15px'>This is where we have to get a bit technical:</p><ul style='font-size:15px'><li>&nbsp;&nbsp;-&nbsp;fairhouse.io picks a secret random number and provides you with its hash.</li><li>&nbsp;&nbsp;-&nbsp;You send your bet in Ethereum transaction to our smart contract along with the hash from previous step.</li><li>&nbsp;&nbsp;-&nbsp;At this point fairhouse.io has already commited to a number, prior to you chosing an outcome.</li><li>&nbsp;&nbsp;-&nbsp;Once your transaction is confirmed by the network, the contract stores the hash and bet details.</li><li>&nbsp;&nbsp;-&nbsp;Our croupier bot 'reveals' the number by sending a bet settling transaction.</li><li>&nbsp;&nbsp;-&nbsp;The contract accepts the transaction if and only if the hash of provided number is the same as the stored one.</li><li>&nbsp;&nbsp;-&nbsp;The contract mixes the number and block hash of the bet transaction to get a random number.</li><li>&nbsp;&nbsp;-&nbsp;The contract decides whether you won or lost and sends you the winning amount of Ether.</li></ul><p style='font-size:15px'>Can fairhouse.io tamper with the results? Nope, as the contract keeps track of secret number's hash, meaning the operator cannot change the number after the bet has been accepted. Mixing the block hash with the numbers makes the result totally random yet disallows miners from crafting winning bets. On the other hand, fairhouse.io themselves cannot control bet outcomes either because of block hash component. This is a well-known 'commitment scheme' which enables fairhouse.io to provide gambling-grade random number generation allowing for big bets, jackpots and quick settlements while being fully transparent.</p><h1 style='color:#fff;'><b>What if I want to really verify that everything you say is actually true?</b></h1><p style='font-size:15px'>Feel free to study our Smart Contract - it's available on Github. In case you have any questions or hesitations, drop us a line via Telegram, Twitter or e-mail.</p><h1 style='color:#fff;'><b>What are the fees?</b></h1><p style='font-size: 15px'>Every bet is deducted 1% (but no less than 0.0003 ETH) in favour of the fairhouse.io (to help us pay the bills and keep the game running) and 0.001 ETH more gets accumulated in the jackpot for bets of 0.1 ETH and up (which also makes these bets participate in jackpot!)</p><h1 style='color:#fff;'><b>Is there a recommended incentive policy?</b></h1><p style='font-size:15px'>Yes, you can use 0.05 ETH to register a unique name to initiate a recommendation URL (e.g. - https://www.fairhouse.io/r/{anyname}). You can get a recommendation reward of 0.5% of the amount of each bet (the recommendation reward will be paid from 1% of the cost, provided the deduction fee is not less than 0.0003 ETH).</p><p style='font-size:15px'></p>"
+  },
+  "tos":{
+    "cont":"<h1 style='color:#fff;'><b>Terms of service</b></h1><p style='font-size:15px'>The web site of fairhouse.io ('we') provides interface to the Smart Contract on the Ethereum blockchain, which accepts ETH tokens and transfers varying amounts of ETH tokens in return, depending on external factors.</p><p style='font-size:15px'>We are not able to verify the legality of the service in each jurisdiction and provide you with any legal advice. It is your sole responsibility to comply with any relevant laws, policies and regulations of your jurisdiction regarding the use of ETH tokens in the way described above.</p><p style='font-size:15px'>Playing the games offered by the Smart Contract can lead to obtainment or loss of ETH tokens. We do not hold any responsibility for the results of the games we provide.</p><p style='font-size:15px'>We reserve the right to modify the website and its services and these terms without any prior notice. We advise to check for updates on regular basis.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>"
+  }
+}
