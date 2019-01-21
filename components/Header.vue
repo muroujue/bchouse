@@ -1,7 +1,7 @@
 <template>
   <div id="header">
     <header>
-      <nuxt-link to="/" class="logo"><img src="~/assets/img/fairhouse-logo-fully.svg" alt=""></nuxt-link>
+      <nuxt-link to="/" class="logo"><img src="~/assets/img/bc-logo-fully.svg" alt=""></nuxt-link>
       <div class="right clearfix">
         <p class="link">
           <nuxt-link to="/">&nbsp;{{ $t('links.home') }}&nbsp;</nuxt-link>
@@ -10,7 +10,7 @@
         <ul class="tools">
           <li><a target="_blank" href="https://t.me/joinchat/HLiGaQ-Gw3ztycaiooEbIg"><img src="~/assets/img/ico_telegram.png" alt=""></a></li>
           <li><a target="_blank" href="https://twitter.com/fair_io"><img src="~/assets/img/ico_twitter.png" alt=""></a></li>
-          <li><a target="_blank" href="mailto:support.fairhouse@protonmail.com"><img src="~/assets/img/ico_mail.png" alt=""></a></li>
+          <li><a target="_blank" href="mailto:support.bc@protonmail.com"><img src="~/assets/img/ico_mail.png" alt=""></a></li>
           <li>
             <el-popover placement="bottom" width="200" trigger="click" v-model="langPopVisible">
               <ul class="lang">

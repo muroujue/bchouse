@@ -96,7 +96,7 @@
 
 <script>
 import MetaMask from '~/components/MetaMask'
-import abi from '~/settings/fairhouse_sol_FairHouse'
+import abi from '~/settings/bc_sol_bc'
 import axios from '~/plugins/axios'
 import toMask from '~/settings/display_to_mask.json'
 import contractAddress from '~/settings/contractAddress.js'

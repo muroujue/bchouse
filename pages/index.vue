@@ -107,7 +107,7 @@
 import axios from '~/plugins/axios'
 import TWEEN from '@tweenjs/tween.js'
 import { mapState } from 'vuex'
-import abi from '~/settings/fairhouse_sol_FairHouse'
+import abi from '~/settings/bc_sol_bc'
 import contractAddress from '~/settings/contractAddress.js'
 
 export default {
@@ -257,7 +257,7 @@ export default {
         let user = this.$web3.utils.hexToString(result)
         if (user) {
           this.userName = user
-          this.urlpath = `https://www.fairhouse.io/r/${user}`
+          this.urlpath = `https://www.bc.io/r/${user}`
           this.recommend()
         }
       })

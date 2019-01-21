@@ -82,7 +82,7 @@ module.exports = {
     proxy: true
   },
   proxy: {
-    '/v1': 'https://testapi.fairhouse.io'
+    '/v1': 'https://testapi.bc.io'
   },
   router: {
     extendRoutes(routes,resolve) {

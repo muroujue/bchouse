@@ -173,7 +173,7 @@
 import contractAddress from '~/settings/contractAddress.js'
 import { game1_betArr,game2_betArr,game3_betArr,game4_betArr } from '~/settings/robot'
 import { winRatio,getmodulo } from '~/plugins/utils'
-import abi from '~/settings/fairhouse_sol_FairHouse'
+import abi from '~/settings/bc_sol_bc'
 import axios from '~/plugins/axios'
 import toMask from '~/settings/display_to_mask.json'
 import BigNumber from 'bignumber.js'

@@ -21,9 +21,9 @@
           <li>
               <dl>
                   <dt>{{$t('bottomZone.unit3.title')}}</dt>
-                  <dd><a target="_blank" href="https://github.com/FairHouseIO/fairhosue-contract">Github</a></dd>
-                  <dd><a target="_blank" href="https://www.stateofthedapps.com/dapps/fairhouse">State-of-the-DApps</a></dd>
-                  <dd><a target="_blank" href="https://dappradar.com/app/1116/fairhouse">DAppRadar</a></dd>
+                  <dd><a target="_blank" href="https://github.com/bcIO/fairhosue-contract">Github</a></dd>
+                  <dd><a target="_blank" href="https://www.stateofthedapps.com/dapps/bc">State-of-the-DApps</a></dd>
+                  <dd><a target="_blank" href="https://dappradar.com/app/1116/bc">DAppRadar</a></dd>
                   <dd><a target="_blank" href="https://dapp.review/dapp/1355">DappReview</a></dd>
                   <dd><a target="_blank" href="https://dapponline.io/dappDetail/1566">DappOnline</a></dd>
               </dl>
@@ -33,7 +33,7 @@
                   <dt>{{$t('bottomZone.unit4.title')}}</dt>
                   <dd><a target="_blank" href="https://t.me/joinchat/HLiGaQ-Gw3ztycaiooEbIg">Telegram</a></dd>
                   <dd><a target="_blank" href="https://twitter.com/fair_io">Twitter</a></dd>
-                  <dd><a target="_blank" href="mailto:support.fairhouse@protonmail.com">{{$t('bottomZone.unit4.info')[0]}}</a></dd>
+                  <dd><a target="_blank" href="mailto:support.bc@protonmail.com">{{$t('bottomZone.unit4.info')[0]}}</a></dd>
                   <dd><a target="_blank" href="/tos">{{$t('bottomZone.unit4.info')[1]}}</a></dd>
               </dl>
           </li>
